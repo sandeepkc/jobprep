@@ -1,0 +1,6 @@
+1. Compile:
+	#javac *.java
+
+2. Run:
+	#java -cp . FactoryDemo
+	//cp -> classpath

@@ -1,0 +1,3 @@
+javac ThreadVsRunnable.java
+java ThreadVsRunnable
+

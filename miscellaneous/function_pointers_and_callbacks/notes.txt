@@ -1,0 +1,3 @@
+* Function pointer is just another way of calling a function
+* The role of call-back functions is to let lower layers to call functions of upper-layers by
+  providing them with a pointer that points to the desired function in the upper layer
